@@ -1,0 +1,11 @@
+{
+  "name": "andela-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Islam Elrefaey",
+  "license": "ISC"
+}
